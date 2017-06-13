@@ -1,0 +1,15 @@
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+.mvn/
+nb-configuration.xml
+nbactions.xml
+
+.classpath
+.project
+.settings/
+target/
